@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="anuncio.svg"
-   inkscape:export-filename="C:\Users\Esdras\Documents\nucleo-de-estudo\seminario-001.png"
+   inkscape:export-filename="C:\Users\Esdras\Documents\nucleo-de-estudo\nec-github\seminarios\001\anuncio\anuncio.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -42,7 +42,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49543197"
-     inkscape:cx="406.142"
+     inkscape:cx="748.73487"
      inkscape:cy="264.02755"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -97,7 +97,7 @@
          x="31.314865"
          y="571.51825"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Caviar Dreams';-inkscape-font-specification:'Caviar Dreams';fill:#000000"
-         id="tspan3349">Áreas de Pesquisas em</tspan><tspan
+         id="tspan3349">A Área de Pesquisa em</tspan><tspan
          sodipodi:role="line"
          x="31.314865"
          y="655.43427"
@@ -182,7 +182,7 @@
          id="tspan4186"
          x="42.350372"
          y="812.35211"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT'">Palestrante: Prof. Esdras Bispo Jr</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT'">Preletor: Prof. Esdras Bispo Jr</tspan><tspan
          sodipodi:role="line"
          x="42.350372"
          y="862.35211"
@@ -197,11 +197,11 @@
          x="42.350372"
          y="962.35211"
          id="tspan4196"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT'">Local: Lab. Ensino de Comp. III</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT'">Local: Anfiteatro Inferior, CA1</tspan><tspan
          sodipodi:role="line"
          x="42.350372"
          y="1012.3521"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT'"
-         id="tspan3356">         Bloco de Exatas, UFG Jataí</tspan></text>
+         id="tspan3356">         Campus Jatobá, UFG Jataí</tspan></text>
   </g>
 </svg>
